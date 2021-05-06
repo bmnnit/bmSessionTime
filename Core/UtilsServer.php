@@ -1,4 +1,8 @@
 <?php
+/**
+ * bmSessionTime - erlaubt das Einstellen der Session Timeouts
+ * @author Johannes Baumann <info@bmnnit.com>
+ */
 
 namespace Bmnnit\bmSessionTime\Core;
 
