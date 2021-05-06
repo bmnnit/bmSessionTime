@@ -1,8 +1,9 @@
 <?php
-
 /**
- * Metadata version
+ * bmSessionTime - erlaubt das Einstellen der Session Timeouts
+ * @author Johannes Baumann <info@bmnnit.com> ab 2018
  */
+
 $sMetadataVersion = '2.0';
 
 $aModule = array('id' => 'bmnnit_sessiontime',
