@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * bmSessionTime - erlaubt das Einstellen der Session Timeouts
+ * @author Johannes Baumann <info@bmnnit.com>
+ */
 $sLangName = 'Deutsch';
 $aLang     = array(
     'charset'                                   => 'UTF-8',
